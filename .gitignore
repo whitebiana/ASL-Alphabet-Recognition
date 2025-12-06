@@ -222,5 +222,5 @@ ASL_Dataset/
 ASL/
 Synthetic_ASL_Alphabet/
 Synthetic_ASL/
-runs/
+# runs/
 docs/
